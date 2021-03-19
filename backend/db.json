@@ -1,14 +1,9 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta",
-      "price": 12
-    },
-    {
       "id": 2,
       "name": "Notebook",
-      "price": 12000
+      "price": "1000"
     },
     {
       "name": "NootBook Gamer ",
@@ -19,6 +14,11 @@
       "name": "redmi note 9",
       "price": "5000",
       "id": 4
+    },
+    {
+      "name": "computador",
+      "price": "1500",
+      "id": 5
     }
   ]
 }
