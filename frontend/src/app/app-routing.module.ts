@@ -15,7 +15,7 @@ const routes: Routes = [{
 
 },
 {
-  path:"usuarios",
+  path:"products",
   component:ProductCrudComponent
 },
 {
